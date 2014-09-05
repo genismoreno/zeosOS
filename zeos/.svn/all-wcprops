@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/genis.moreno/!svn/ver/46/zeos
+END
+mm.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/genis.moreno/!svn/ver/32/zeos/mm.c
+END
+libauxjp.a
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/genis.moreno/!svn/ver/11/zeos/libauxjp.a
+END
+mainuserJP.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/genis.moreno/!svn/ver/34/zeos/mainuserJP.c
+END
+.gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/genis.moreno/!svn/ver/11/zeos/.gdbinit
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/genis.moreno/!svn/ver/46/zeos/user.c
+END
+libjp2.a
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/genis.moreno/!svn/ver/27/zeos/libjp2.a
+END
+entry.S
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/genis.moreno/!svn/ver/34/zeos/entry.S
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/genis.moreno/!svn/ver/29/zeos/system.c
+END
+libjpsemaphores.a
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/genis.moreno/!svn/ver/38/zeos/libjpsemaphores.a
+END
+libjpread.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/genis.moreno/!svn/ver/45/zeos/libjpread.a
+END
+.bochsrc_gdb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/genis.moreno/!svn/ver/11/zeos/.bochsrc_gdb
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/genis.moreno/!svn/ver/44/zeos/Makefile
+END
+build.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/genis.moreno/!svn/ver/2/zeos/build.c
+END
+sys_call_table.S
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/genis.moreno/!svn/ver/43/zeos/sys_call_table.S
+END
+utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/genis.moreno/!svn/ver/2/zeos/utils.c
+END
+bootsect.s
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/genis.moreno/!svn/ver/13/zeos/bootsect.s
+END
+libzeos.a
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/genis.moreno/!svn/ver/11/zeos/libzeos.a
+END
+libc.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/genis.moreno/!svn/ver/44/zeos/libc.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/genis.moreno/!svn/ver/2/zeos/list.c
+END
+user.lds
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/genis.moreno/!svn/ver/2/zeos/user.lds
+END
+sys.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/genis.moreno/!svn/ver/46/zeos/sys.c
+END
+libjpclone.a
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/genis.moreno/!svn/ver/38/zeos/libjpclone.a
+END
+.bochsrc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/genis.moreno/!svn/ver/11/zeos/.bochsrc
+END
+libjpsbrk.a
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/genis.moreno/!svn/ver/45/zeos/libjpsbrk.a
+END
+entry.s
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/genis.moreno/!svn/ver/21/zeos/entry.s
+END
+devices.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/genis.moreno/!svn/ver/46/zeos/devices.c
+END
+system.lds
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/genis.moreno/!svn/ver/2/zeos/system.lds
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/genis.moreno/!svn/ver/46/zeos/sched.c
+END
+interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/genis.moreno/!svn/ver/46/zeos/interrupt.c
+END
+snapshot.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/genis.moreno/!svn/ver/2/zeos/snapshot.txt
+END
+hardware.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/genis.moreno/!svn/ver/4/zeos/hardware.c
+END
+sys_call_table.s
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/genis.moreno/!svn/ver/44/zeos/sys_call_table.s
+END
+bootsect
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/genis.moreno/!svn/ver/2/zeos/bootsect
+END
+bootsect.S
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/genis.moreno/!svn/ver/2/zeos/bootsect.S
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/genis.moreno/!svn/ver/2/zeos/io.c
+END
